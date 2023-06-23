@@ -1,6 +1,11 @@
-# hello_world
+# cinemapedia
 
 A new Flutter project created with https://flutlab.io
+
+# Dev
+
+1. Copiar el .env.template y renombrarlo a .env
+2. Cambiar las variables de entorno (The MovieDB)
 
 ## Getting Started
 
