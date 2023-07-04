@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:cinemapedia/presentation/views/views.dart';
 import 'package:cinemapedia/presentation/widgets/widgets.dart';
 
 class HomeScreen extends StatelessWidget {
